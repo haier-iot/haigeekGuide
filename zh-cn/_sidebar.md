@@ -1,15 +1,6 @@
 * 平台介绍
   * [平台简介](zh-cn/quickstart.md)
-  * [开放能力](zh-cn/more-pages.md)
-	* [硬件配网绑定](zh-cn/more-pages.md)
-	* [APP控制](zh-cn/more-pages.md)
-	* [语音控制](zh-cn/more-pages.md)
-	* [设备互联互通](zh-cn/more-pages.md)
-	* [设备共享](zh-cn/more-pages.md)
-	* [消息推送](zh-cn/more-pages.md)
-	* [固件OTA](zh-cn/more-pages.md)
-	* [云端定时任务](zh-cn/more-pages.md)
-	* [云端定时任务](zh-cn/more-pages.md)
+  * [开放能力](zh-cn/Platform/serviceSupport.md)
  
 * 开发者须知
   * [名词解释](zh-cn/quickstart.md)
@@ -21,7 +12,7 @@
   * [账号权限](zh-cn/quickstart.md)
   * [硬件接入](zh-cn/more-pages.md)
 	* [直连接入](zh-cn/more-pages.md)
-	* [云对云接入](zh-cn/Link/Cloud2Cloud.md)
+	* [云对云接入](zh-cn/PlatformGuide/Cloud2Cloud.md)
   * [应用接入](zh-cn/cover.md)
 
 * 设备开发

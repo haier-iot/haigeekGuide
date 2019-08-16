@@ -1,3 +1,1 @@
-# Headline
-
-> An awesome project.
+# 海尔开放平台
