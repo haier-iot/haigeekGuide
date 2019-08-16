@@ -21,7 +21,7 @@
   * [账号权限](zh-cn/quickstart.md)
   * [硬件接入](zh-cn/more-pages.md)
 	* [直连接入](zh-cn/more-pages.md)
-	* [云对云接入](zh-cn/more-pages.md)
+	* [云对云接入](zh-cn/Link/Cloud2Cloud.md)
   * [应用接入](zh-cn/cover.md)
 
 * 设备开发
