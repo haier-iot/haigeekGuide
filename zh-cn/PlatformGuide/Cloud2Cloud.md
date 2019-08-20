@@ -1,10 +1,10 @@
 # 概述  
 
-> 智能硬件以云对云方式接入海尔IoT开发者平台，即开发者自有智能云与海尔IoT平台对接，其智能硬件连接自有智能云后，也间接实现了与海尔IoT平台的接入。    
+> 智能硬件以云对云方式接入海尔IoT平台，即开发者自有智能云与海尔IoT平台对接，其智能硬件连接自有智能云后，也间接实现了与海尔IoT平台的接入。    
 
 ![云设备架构][Architecture]
 
-该方式适用于符合以下条件的开发者（第三方厂商）：  
+**该方式适用于符合以下条件的开发者（第三方厂商）：**  
 拟接入IOT平台的智能硬件为IP联网硬件，即Wi-Fi类硬件、2-4G类硬件、网关+子设备类硬件（如Zigbee设备）等；  
 拥有自己的云（服务器），且云的稳定性和可靠性较好，拟接入IOT平台的自有智能硬件连接到自己的云；
 
@@ -12,7 +12,7 @@
 
 # 创建功能集  
 
-1、 在[海极网][https://www.haigeek.com/web/pages/haigeek.html]注册企业账号并审核通过后，进入【产品中心】导航栏进行新的产品创建，点击【按功能集创建】按钮。  
+1、 在 [海极网][海极网] 注册企业账号并审核通过后，进入【产品中心】导航栏进行新的产品创建，点击【按功能集创建】按钮。  
 
 ![云设备创建功能集][Create_function]
 
@@ -67,3 +67,4 @@
 [Create_function]:_media/Link/create_function.png  
 [Create_function2]:_media/Link/create_function2.png  
 [Function_set]:_media/Link/function_set.png  
+[海极网][https://www.haigeek.com/web/pages/haigeek.html] 
