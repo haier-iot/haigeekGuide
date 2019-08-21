@@ -109,7 +109,7 @@
 :-|:-:|:-
 序号|即所选功能的顺序号，通讯协议按此序号生成|无
 显示名称|属性的说明|无
-标识名称|即属性名称|添加自定义功能时，建议格式为"第三方标识字母_"，例如，“haier_”
+标识名称|即属性名称|添加自定义功能时，建议格式为"第三方标识字母\_"，例如，“haier\_”
 读写类型|包括：读、写、单可写、组可写|无
 数据类型|包括：整型、布尔、字符串、浮点型、时间、枚举等|无
 大数据属性位置|表示某个已定义的属性在字节中的位置|无
@@ -119,10 +119,58 @@
 
 ### 设备开发/配置参数  
 
+通过“功能集配置”页面配置好产品的功能后，点击【保存】按钮，进入“设备开发”页面。  
 
 
+设备开发”页面主要包括三个信息项，即“开发流程”、“参数配置”、“业务功能”。  
 
-### 创建产品
+**程序开发：**  
+
+平台提供程序开发需要的开发文档，程序调试工具，在线测试工具。
+
+**参数配置：**   
+
+平台会自动分配各开发环境需要的SystemID、SystemKey，校验云设备的凭证；  
+查询设备信息回调URL，由第三方开发者填写，平台通过本URL来主动向第三方云服务定期同步设备信息；  
+读设备属性回调URL，由第三方开发者填写，平台回调本URL通过第三方云服务发送给设备执行，读取设备属性；  
+写设备属性回调URL，由第三方开发者填写，平台回调本URL通过第三方云服务发送给设备执行，写设备属性即单命令操作；  
+设备操作回调URL，由第三方开发者填写，平台回调本URL通过第三方云服务发送给设备执行，操作设备即组命令操作；
+填写好回调URL后，点击【保存】按钮。  
+
+**业务功能：**     
+
+指所选功能间的业务逻辑关系，例如照明灯具只能在开启状态的前提下才能控制灯光亮度。 
+
+ 
+
+![开发流程][Development_process]
+
+![参数配置][Parameter_configuration]
+
+
+### 创建产品  
+
+创建产品即创建产品型号。  
+
+![产品型号][Product_model]  
+
+点击上图【创建型号】按钮，在弹出的对话框里填写产品型号相关信息，下拉滚动条点击【确定】按钮。   
+
+
+![创建型号][Create_model] 
+
+点击上图【确定】按钮后，进入产品型号详情界面，开发者可以对相关功能进行编辑操作。
+
+**逻辑约束贵州：**  
+
+指所选功能间的业务逻辑关系，例如照明灯具只能在开启状态的前提下才能控制灯光亮度。 
+
+**补丁命令规则：**    
+
+
+![产品型号完成][Create_success] 
+
+
 
 ### 接入优家
 
@@ -149,3 +197,8 @@
 [Basis_function]:_media/Link/basis_function.png 
 [Advanced_function]:_media/Link/advanced_function.png 
 [Other_function]:_media/Link/other_function.png
+[Development_process]:_media/Link/development_process.png
+[Parameter_configuration]:_media/Link/parameter_configuration.png  
+[Product_model]:_media/Link/product_model.png 
+[Create_model]:_media/Link/create_model.png  
+[Create_success]:_media/Link/create_success.png 

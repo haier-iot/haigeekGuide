@@ -29,11 +29,15 @@
   * [Android开发](zh-cn/more-pages.md)
 
 * 云应用开发指南
-  * [设备管理](zh-cn/quickstart.md)
-  * [账号服务](zh-cn/more-pages.md)
-  * [场景服务](zh-cn/more-pages.md)
-  * [家庭模型](zh-cn/more-pages.md)
-  * [消息推送](zh-cn/more-pages.md)
+  * [设备管理](https://haier-iot.github.io/guide/#/zh-cn/DeviceManage)
+  * [账号服务](https://haier-iot.github.io/guide/#/zh-cn/Account)
+  * [账号授权](https://haier-iot.github.io/guide/#/zh-cn/Session)
+  * [场景服务](https://haier-iot.github.io/guide/#/zh-cn/IFTTT)
+  * [家庭模型](https://haier-iot.github.io/guide/#/zh-cn/FamilyManage)
+  * [消息推送](https://haier-iot.github.io/guide/#/zh-cn/MessagePush)
+  * [数据订阅](https://haier-iot.github.io/guide/#/zh-cn/DataSubscription)
+  * [设备影子](https://haier-iot.github.io/guide/#/zh-cn/DevicesShadow)
+  * [预约定时](https://haier-iot.github.io/guide/#/zh-cn/Scheduler)
   
 * 常用指南
   * [开发者反馈](zh-cn/quickstart.md)
