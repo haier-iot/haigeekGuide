@@ -22,7 +22,7 @@
   * [Linux设备SDK接入](zh-cn/cover.md)
   * [Android设备SDK接入](zh-cn/cover.md)
   * [BLE设备SDK接入](zh-cn/cover.md)
-  * [云设备接入](zh-cn/cover.md)
+  * [云设备接入](https://haier-iot.github.io/guide/#/zh-cn/Cloudgw)
 
 * 独立APP开发
   * [IOS开发](zh-cn/quickstart.md)
