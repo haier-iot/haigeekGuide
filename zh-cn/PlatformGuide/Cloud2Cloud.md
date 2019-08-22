@@ -161,7 +161,7 @@
 
 点击上图【确定】按钮后，进入产品型号详情界面，开发者可以对相关功能进行编辑操作。
 
-**逻辑约束贵州：**  
+**逻辑约束规则：**  
 
 指所选功能间的业务逻辑关系，例如照明灯具只能在开启状态的前提下才能控制灯光亮度。 
 
@@ -170,9 +170,30 @@
 
 ![产品型号完成][Create_success] 
 
+点击上图【保存】按钮，产品型号创建完成。
+
+![产品型号][Create_model]   
+
+操作功能：  
+
+操作项|说明
+:-|:-
+编辑|编辑型号信息，包括名称、品牌、产品描述等
+复制|从当前型号，复制功能到另外一个型号
+删除|删除已添加的型号
+下载|下载型号对应的设备功能模型文档
 
 
 ### 接入优家
+
+型号创建完成后，在接入U+ APP流程中，确定产品是优家官方UI接入还是自助开发UI接入。  
+
+官方UI提供通用的控制功能，如果要接入U+ APP的产品功能，包含在官方UI模板中则可以按U+官方UI免开发接入；如果在官方UI模板中没有找到，请选择自助开发UI模式。    
+
+
+![接入优家][AccessU+]   
+
+
 
 #### 配网引导配置
 
@@ -202,3 +223,5 @@
 [Product_model]:_media/Link/product_model.png 
 [Create_model]:_media/Link/create_model.png  
 [Create_success]:_media/Link/create_success.png 
+[Create_model]:_media/Link/model_success.png  
+[AccessU+]:_media/Link/accessU+.png 
