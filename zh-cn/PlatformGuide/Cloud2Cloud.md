@@ -188,14 +188,25 @@
 
 型号创建完成后，在接入U+ APP流程中，确定产品是优家官方UI接入还是自助开发UI接入。  
 
-官方UI提供通用的控制功能，如果要接入U+ APP的产品功能，包含在官方UI模板中则可以按U+官方UI免开发接入；如果在官方UI模板中没有找到，请选择自助开发UI模式。    
+官方UI提供通用的控制功能，如果要接入U+ APP的产品功能，包含在官方UI模板中则可以按U+官方UI免开发接入；如果在官方UI模板中没有找到，请选择自助开发UI模式。 例如选择“官方设备详情页”(即优家官方UI)后，点击【使用选中UI】按钮。   
 
 
 ![接入优家][AccessU+]   
 
 
+点击【使用选中UI】按钮后，进入“APP配置”页面。
+
+![优家配置][App_config] 
 
 #### 配网引导配置
+点击“配网引导”下的【点击配置】按钮。    
+
+1、选择配置方式；  
+2、上传配网引导第一步的图片(图片宽高必须是4:3);  
+3、上传已进入配网状态图片(图片宽高必须是3:1)。  
+
+
+![点击配置][Click_config] 
 
 #### APP界面配置
 
@@ -225,3 +236,5 @@
 [Create_success]:_media/Link/create_success.png 
 [Create_model]:_media/Link/model_success.png  
 [AccessU+]:_media/Link/accessU+.png 
+[App_config]:_media/Link/app_config.png  
+[Click_config]:_media/Link/click_config.png   
