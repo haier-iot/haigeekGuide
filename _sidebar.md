@@ -24,12 +24,12 @@
   * [IOS开发](zh-cn/quickstart.md)
   * [Android开发](zh-cn/more-pages.md)
 * 应用开发指南
-  * [用户中心](zh-cn/quickstart.md)
-  * [家庭中心](zh-cn/FamilyCenter/quickstart.md)
-  * [设备中心](zh-cn/DeviceCenter/quickstart.md)
-  * [场景中心](zh-cn/SenceCenter/quickstart.md)
-  * [消息中心](zh-cn/MessageCenter/quickstart.md)
-  * [服务及内容中心](zh-cn/ServiceCenter/quickstart.mdd)
+  * [用户中心](zh-cn/Device/quickstart.md)
+  * [家庭中心](zh-cn/Family/quickstart.md)
+  * [设备中心](zh-cn/Device/quickstart.md)
+  * [场景中心](zh-cn/Sence/quickstart.md)
+  * [消息中心](zh-cn/Message/quickstart.md)
+  * [服务及内容中心](zh-cn/Service/quickstart.mdd)
 * 常用指南
   * [开发者反馈](zh-cn/quickstart.md)
   * [更新通知](zh-cn/more-pages.md)
