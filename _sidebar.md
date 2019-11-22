@@ -23,12 +23,13 @@
 * 独立APP开发
   * [IOS开发](zh-cn/quickstart.md)
   * [Android开发](zh-cn/more-pages.md)
-* 云应用开发指南
-  * [设备管理](zh-cn/quickstart.md)
-  * [账号服务](zh-cn/more-pages.md)
-  * [场景服务](zh-cn/more-pages.md)
-  * [家庭模型](zh-cn/more-pages.md)
-  * [消息推送](zh-cn/more-pages.md)
+* 应用开发指南
+  * [用户中心](zh-cn/quickstart.md)
+  * [家庭中心](zh-cn/FamilyCenter/quickstart.md)
+  * [设备中心](zh-cn/DeviceCenter/quickstart.md)
+  * [场景中心](zh-cn/SenceCenter/quickstart.md)
+  * [消息中心](zh-cn/MessageCenter/quickstart.md)
+  * [服务及内容中心](zh-cn/ServiceCenter/quickstart.mdd)
 * 常用指南
   * [开发者反馈](zh-cn/quickstart.md)
   * [更新通知](zh-cn/more-pages.md)
