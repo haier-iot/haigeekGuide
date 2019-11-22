@@ -1,20 +1,17 @@
 * 平台介绍
   * [平台简介](zh-cn/quickstart.md)
   * [开放能力](zh-cn/Platform/serviceSupport.md)
- 
 * 开发者须知
   * [名词解释](zh-cn/quickstart.md)
   * [协议规范](zh-cn/more-pages.md)
   * [合作协议](zh-cn/custom-navbar.md)
   * [认证标识](zh-cn/cover.md)
-  
 * 平台使用指南
   * [账号权限](zh-cn/quickstart.md)
   * [硬件接入](zh-cn/more-pages.md)
 	* [直连接入](zh-cn/more-pages.md)
 	* [云对云接入](zh-cn/PlatformGuide/Cloud2Cloud.md)
   * [应用接入](zh-cn/cover.md)
-
 * 设备开发
   * [开发概述](zh-cn/quickstart.md)
   * [开发规范](zh-cn/more-pages.md)
@@ -22,23 +19,17 @@
   * [Linux设备SDK接入](zh-cn/cover.md)
   * [Android设备SDK接入](zh-cn/cover.md)
   * [BLE设备SDK接入](zh-cn/cover.md)
-  * [云设备接入](https://haier-iot.github.io/guide/#/zh-cn/Cloudgw)
-
+  * [云设备接入](zh-cn/cover.md)
 * 独立APP开发
   * [IOS开发](zh-cn/quickstart.md)
   * [Android开发](zh-cn/more-pages.md)
-
-* 云应用开发指南
-  * [设备管理](https://haier-iot.github.io/guide/#/zh-cn/DeviceManage)
-  * [账号服务](https://haier-iot.github.io/guide/#/zh-cn/Account)
-  * [账号授权](https://haier-iot.github.io/guide/#/zh-cn/Session)
-  * [场景服务](https://haier-iot.github.io/guide/#/zh-cn/IFTTT)
-  * [家庭模型](https://haier-iot.github.io/guide/#/zh-cn/FamilyManage)
-  * [消息推送](https://haier-iot.github.io/guide/#/zh-cn/MessagePush)
-  * [数据订阅](https://haier-iot.github.io/guide/#/zh-cn/DataSubscription)
-  * [设备影子](https://haier-iot.github.io/guide/#/zh-cn/DevicesShadow)
-  * [预约定时](https://haier-iot.github.io/guide/#/zh-cn/Scheduler)
-  
+* 应用开发指南
+  * [用户中心](zh-cn/Device/quickstart.md)
+  * [家庭中心](zh-cn/Family/quickstart.md)
+  * [设备中心](zh-cn/Device/quickstart.md)
+  * [场景中心](zh-cn/Sence/quickstart.md)
+  * [消息中心](zh-cn/Message/quickstart.md)
+  * [服务及内容中心](zh-cn/Service/quickstart.mdd)
 * 常用指南
   * [开发者反馈](zh-cn/quickstart.md)
   * [更新通知](zh-cn/more-pages.md)
