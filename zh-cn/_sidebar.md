@@ -10,7 +10,7 @@
   * [账号权限](zh-cn/quickstart.md)
   * [智能硬件 直连接入](zh-cn/DeviceGuide/direct.md)
   * [智能硬件 自有云接入](zh-cn/DeviceGuide/cloudDevice.md)
-  * [智能硬件 三方云接入](zh-cn/DeviceGuide/cloud.md)  
+  * [智能硬件 三方云接入](zh-cn/DeviceGuide/cloud.md)    
 	* [概述](zh-cn/DeviceGuide/cloud.md)
   	* [创建产品](zh-cn/DeviceGuide/cloud.md)
   	* [定义产品功能集](zh-cn/DeviceGuide/cloud.md)
