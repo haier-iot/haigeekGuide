@@ -22,7 +22,7 @@
 	  	* [接入智家语音](zh-cn/DeviceGuide/CloudDevice/voiceConfig.md)
   	* [定义拓展功能](zh-cn/DeviceGuide/CloudDevice/expandFunction.md)
   	* [审核投产](zh-cn/DeviceGuide/CloudDevice/reviewProduction.md)
-  * [智能硬件 三方云接入]()    
+  * [智能硬件 三方云接入]()
 	* [概述](zh-cn/DeviceGuide/Cloud2Cloud/overView.md)
   	* [创建产品](zh-cn/DeviceGuide/Cloud2Cloud/creatProduct.md)
   	* [定义产品功能集](zh-cn/DeviceGuide/Cloud2Cloud/defineProduct.md)
