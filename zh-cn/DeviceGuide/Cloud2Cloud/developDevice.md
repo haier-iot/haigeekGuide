@@ -9,7 +9,7 @@
 
 **互转码模板表**
 
-模板下载： <a href="_media/互转码模板表.xlsx" target="_blank">互转码模板表</a>
+模板下载： <a href="互转码模板表.xlsx" target="_blank">互转码模板表</a>
 
 
 
