@@ -9,7 +9,7 @@
 
 **互转码模板表**
 
-模板下载： <a href="https://haier-iot.github.io/userGuide/zh-cn/DeviceGuide/Cloud2Cloud/_media/互转码模板表.xlsx" target="_blank">互转码模板表</a>
+模板下载： <a href="https://haier-iot.github.io/userGuide/#/zh-cn/DeviceGuide/Cloud2Cloud/developDevice/_media/互转码模板表.xlsx" target="_blank">互转码模板表</a>
 
 
 
