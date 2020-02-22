@@ -9,8 +9,8 @@
 * 平台使用指南
   * [账号权限](zh-cn/quickstart.md)
   * [智能硬件 直连接入](zh-cn/DeviceGuide/direct.md)
-  * [智能硬件 自有云接入](zh-cn/DeviceGuide/CloudDevice/overView.md)
-  * [智能硬件 三方云接入]()
+  * [智能硬件 自有云接入](zh-cn/DeviceGuide/CloudDevice/overView.md)  
+  * [智能硬件 三方云接入](zh-cn/DeviceGuide/Cloud2Cloud/overView.md)
   	* [概述](zh-cn/DeviceGuide/Cloud2Cloud/overView.md)
   	* [创建产品](zh-cn/DeviceGuide/Cloud2Cloud/creatProduct.md)
   	* [定义产品功能集](zh-cn/DeviceGuide/Cloud2Cloud/defineProduct.md)
